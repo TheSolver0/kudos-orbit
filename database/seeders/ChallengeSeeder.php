@@ -28,7 +28,8 @@ class ChallengeSeeder extends Seeder
             return;
         }
 
-        DB::table('challenges')->truncate();
+        DB::table('challenge_participants')->delete();
+        DB::table('challenges')->delete();
 
         DB::table('challenges')->insert([
 
