@@ -71,7 +71,7 @@ export default function AuthSplitLayout({
                 >
                     <div className="flex h-20 w-20 items-center justify-center rounded-xl bg-white p-2 shadow-lg ring-1 ring-gray-200">
                         <img
-                            src="/assets/images/pad-logo.png"
+                            src="/assets/images/orbit-logo.png"
                             alt="PAD"
                             className="h-full w-full object-contain"
                         />
