@@ -90,7 +90,7 @@ class BravoController extends Controller
                 ->where('end_date', '>=', now())
                 ->first();
 
-            // Groupe tous les bravos d'un même envoi multiple sous un même UUID
+            // Groupe tous Les Kudos d'un même envoi multiple sous un même UUID
             $batchId = count($receiverIds) > 1 ? Str::uuid()->toString() : null;
 
             $bravos = [];
@@ -174,7 +174,7 @@ class BravoController extends Controller
                 ])->values(),
             ]);
 
-        // Regrouper les bravos d'un même envoi (même batch_id) en une seule carte
+        // Regrouper Les Kudos d'un même envoi (même batch_id) en une seule carte
         $bravos = $rawBravos
             ->groupBy(fn ($b) => $b['batch_id'] ?? ('_'.$b['id']))
             ->map(function ($group) {

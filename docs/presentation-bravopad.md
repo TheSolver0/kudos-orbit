@@ -1,15 +1,15 @@
-# Presentation BravoPAD
+# Presentation Kudos_Orbit
 
 ## Objectif de la presentation
 
-Montrer comment BravoPAD transforme la reconnaissance interne en systeme d'engagement mesurable, equitable et pilotable par les RH.
+Montrer comment Kudos_Orbit transforme la reconnaissance interne en systeme d'engagement mesurable, equitable et pilotable par les RH.
 
 ---
 
 ## 1) Message d'ouverture (1 min)
 
 - Problème: la reconnaissance est souvent informelle, peu tracee, difficile a piloter.
-- Promesse: BravoPAD convertit chaque interaction en signal utile pour l'engagement.
+- Promesse: Kudos_Orbit convertit chaque interaction en signal utile pour l'engagement.
 - Resultat attendu: une culture de reconnaissance visible, juste et orientee performance.
 
 ---
@@ -28,7 +28,7 @@ Montrer comment BravoPAD transforme la reconnaissance interne en systeme d'engag
 ### Scene A - Moment employe (3 min)
 
 - Ouvrir le dashboard.
-- Cliquer sur `Envoyer un Bravo`.
+- Cliquer sur `Envoyer un Kudos`.
 - Selectionner des valeurs, ajouter un message, valider.
 - Montrer l'impact immediat: feed, notifications, points.
 
@@ -91,7 +91,7 @@ Message cle: chaque action critique est tracable et explicable.
 
 1. Vision et ambition
 2. Pain points actuels
-3. Comment BravoPAD fonctionne (vue d'ensemble)
+3. Comment Kudos_Orbit fonctionne (vue d'ensemble)
 4. Experience employe
 5. Engagement avance (badges, vote, sondages)
 6. Pilotage RH par les indicateurs
@@ -104,11 +104,11 @@ Message cle: chaque action critique est tracable et explicable.
 
 ## 6) Script orateur (version courte)
 
-- "Avec BravoPAD, chaque reconnaissance devient un signal actionnable."
+- "Avec Kudos_Orbit, chaque reconnaissance devient un signal actionnable."
 - "Nous valorisons les comportements alignes aux valeurs de l'entreprise."
 - "Les RH pilotent avec des donnees fiables, pas uniquement avec du ressenti."
 - "La plateforme garantit tracabilite, equite et transparence."
-- "BravoPAD est le moteur de la culture de reconnaissance."
+- "Kudos_Orbit est le moteur de la culture de reconnaissance."
 
 ---
 
@@ -117,7 +117,7 @@ Message cle: chaque action critique est tracable et explicable.
 - Utiliser 3 comptes de demo (`employee`, `rh`, `admin`) pour illustrer les roles.
 - Precharger quelques donnees (bravos, likes, votes, sondage) pour une demo vivante.
 - Faire une sequence en direct:
-  1. Envoyer un Bravo
+  1. Envoyer un Kudos
   2. Voir la notification
   3. Verifier l'entree dans l'audit
 - Conclure avec un impact business:

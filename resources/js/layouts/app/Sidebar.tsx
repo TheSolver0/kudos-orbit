@@ -166,11 +166,11 @@ export default function Sidebar({ collapsed = false, onCollapseToggle, onClose, 
     <div className="flex flex-col h-full relative">
       <div className="p-3 flex items-center gap-3 border-b border-surface-container-high">
         <div className="w-10 h-10 rounded-xl flex items-center justify-center shrink-0">
-          <img src="/assets/images/pad-logo.png" alt="Logo" className="w-10 h-10 object-contain" />
+          <img src="/assets/images/orbit-logo.png" alt="Logo" className="w-10 h-10 object-contain" />
         </div>
         {!collapsed && (
           <div className="animate-in fade-in slide-in-from-left-4 duration-300">
-            <h2 className="font-extrabold text-lg leading-none tracking-tight text-primary">Bravo PAD</h2>
+            <h2 className="font-extrabold text-lg leading-none tracking-tight text-primary">Kudos_Orbit</h2>
           </div>
         )}
         {onClose && (

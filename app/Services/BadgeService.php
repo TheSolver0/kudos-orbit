@@ -26,7 +26,7 @@ class BadgeService
         ],
         'pont_directions' => [
             'label'       => 'Pont entre directions',
-            'description' => 'Envoyer un Bravo à quelqu\'un d\'une autre direction',
+            'description' => 'Envoyer un Kudos à quelqu\'un d\'une autre direction',
             'color'       => '#6366f1',
             'emoji'       => '🌉',
         ],

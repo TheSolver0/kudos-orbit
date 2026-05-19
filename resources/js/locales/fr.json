@@ -41,7 +41,7 @@
     "users": "Utilisateurs",
     "rolesPermissions": "Rôles & permissions",
     "audit": "Audit",
-    "sendBravo": "Envoyer un Bravo",
+    "sendBravo": "Envoyer un Kudos",
     "logout": "Déconnexion",
     "bravo": "Bravo"
   },
@@ -57,7 +57,7 @@
     "notification": "Notification"
   },
   "dashboard": {
-    "title": "Les Bravos",
+    "title": "Les Kudos",
     "recent": "récents",
     "leaderboard": "Classement",
     "myPoints": "Mes Points",
@@ -86,8 +86,8 @@
     "newChallenge": "NOUVEAU DÉFI",
     "daysLeft": "Plus que {{count}} jours",
     "joinNow": "Participer maintenant",
-    "sendBravo": "Envoyer un Bravo",
-    "welcome": "Bienvenue sur Bravo",
+    "sendBravo": "Envoyer un Kudos",
+    "welcome": "Bienvenue sur Kudos",
     "welcomeSub": "Reconnaissez l'excellence de vos collègues et valorisez les talents qui font la force de PAD.",
     "happyBirthday": "Bon anniversaire {{name}} !",
     "workAnniversary_one": "{{name}} fête son {{count}} an dans l'équipe !",

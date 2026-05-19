@@ -33,7 +33,7 @@ class DashboardController extends Controller
                 ])->values()->toArray(),
             ]));
 
-        // Regrouper les bravos d'un même envoi (même batch_id) en une seule carte
+        // Regrouper Les Kudos d'un même envoi (même batch_id) en une seule carte
         $bravos = $rawBravos
             ->groupBy(fn ($b) => $b['batch_id'] ?? ('_' . $b['id']))
             ->map(function ($group) {

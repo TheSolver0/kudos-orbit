@@ -63,7 +63,7 @@ const AWARD_DEFS: AwardDef[] = [
   {
     id: 'pont_directions',
     label: 'Pont entre directions',
-    description: 'Envoyer un Bravo à une autre direction',
+    description: 'Envoyer un Kudos à une autre direction',
     icon: <Globe size={14} />,
     color: '#6366f1',
     dbBadge: 'pont_directions',

@@ -26,7 +26,7 @@ class BravoValue extends Model
     |--------------------------------------------------------------------------
     */
 
-    // Tous les bravos liés à cette valeur
+    // Tous Les Kudos liés à cette valeur
     public function bravos()
     {
         return $this->hasMany(Bravo::class, 'value_id');

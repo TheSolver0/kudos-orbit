@@ -44,7 +44,7 @@ class Challenge extends Model
         return $this->belongsTo(User::class, 'created_by');
     }
 
-    // Tous les bravos liés à ce challenge
+    // Tous Les Kudos liés à ce challenge
     public function bravos()
     {
         return $this->hasMany(Bravo::class, 'challenge_id');

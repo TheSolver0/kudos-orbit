@@ -26,14 +26,14 @@ export default function AuthSplitLayout({
                     <Link href={home()} className="flex flex-col items-center gap-6">
                         <div className="flex h-40 w-40 items-center justify-center rounded-2xl bg-white p-4 shadow-2xl">
                             <img
-                                src="/assets/images/pad-logo.png"
-                                alt="PAD"
+                                src="/assets/images/orbit-logo.png"
+                                alt="Orbit"
                                 className="h-full w-full object-contain"
                             />
                         </div>
                         <div className="text-center">
                             <p className="text-lg font-semibold uppercase tracking-widest text-blue-200">
-                                PAD
+                                Orbit
                             </p>
                             {/* <p className="mt-1 text-sm text-blue-300 tracking-wider">
                                 Port Authority of Douala
@@ -42,9 +42,9 @@ export default function AuthSplitLayout({
                     </Link>
 
                     <div className="max-w-xs text-center">
-                        <h2 className="text-2xl font-bold text-white">BravoPAD</h2>
+                        <h2 className="text-2xl font-bold text-white">Kudos_Orbit</h2>
                         <p className="mt-3 text-sm leading-relaxed text-blue-200/80">
-                            Plateforme de Reconnaissance entre employés de PAD
+                            Plateforme de Reconnaissance entre employés de Orbit
                         </p>
                     </div>
 
